@@ -24,6 +24,7 @@
 - `demo_parser.py` — код демо-версии
 - `avito_no_repair_demo.xlsx` — результат (Excel)
 - `avito_no_repair_demo.csv` — результат (CSV)
+- `parser.py` — код, не работающий из-за защиты Avito
 
 ## Сложности
 Avito блокирует автоматические запросы (капча, 403).  
